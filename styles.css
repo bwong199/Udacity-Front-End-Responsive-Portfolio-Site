@@ -1,0 +1,19 @@
+.header {
+	margin:10px;
+	display:inline-block;
+}
+
+.profileImage {
+	width: 100px;
+	float:left;
+}
+
+.headerName {
+	float:right;
+	vertical-align: top;
+}
+
+.container {
+	padding: 10px;
+}
+
