@@ -19,10 +19,12 @@
 
 img {
 	width: 80%;
+	max-width: 80%;
 }
 
 .navbar-header img {
 	margin: 10px;
 	width: 100px;
 	height: 100px;
+	max-width: 100%;
 }
