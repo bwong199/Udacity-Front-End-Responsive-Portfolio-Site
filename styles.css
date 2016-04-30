@@ -1,15 +1,15 @@
 .header {
-	margin:10px;
-	display:inline-block;
+	margin: 10px;
+	display: inline-block;
 }
 
-.profileImage {
+.profile-Image {
 	width: 100px;
-	float:left;
+	float: left;
 }
 
 .headerName {
-	float:right;
+	float: right;
 	vertical-align: top;
 }
 
@@ -17,3 +17,12 @@
 	padding: 10px;
 }
 
+img {
+	width: 80%;
+}
+
+.navbar-header img {
+	margin: 10px;
+	width: 100px;
+	height: 100px;
+}
